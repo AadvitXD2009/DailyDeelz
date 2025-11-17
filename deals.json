@@ -277,6 +277,15 @@
       "time": "All Day",
       "address": "1144 Main St W, Hamilton, ON L8S 1C1",
       "category": "Sandwiches"
+    },
+    {
+      "restaurant": "Osmows",
+      "day": "Monday",
+      "deal": "Philly Chicken Ozbox",
+      "amount": "$12.49",
+      "time": "All Day",
+      "address": "119 Osler Dr, Dundas, ON L9H 6X4",
+      "category": "Shawarma"
     }
     
   ]
