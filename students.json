@@ -1,0 +1,30 @@
+[
+  {
+    "place": "Fortinos",
+    "day": "Tuesday",
+    "discount": "10% OFF",
+    "category": "Groceries",
+    "address": "1579 Main St W, Hamilton, ON L8S 1E6"
+  },
+  {
+    "place": "Food Basics",
+    "day": "Tuesday",
+    "discount": "10% OFF",
+    "category": "Groceries",
+    "address": "845 King St W, Hamilton, ON L8S 1K4"
+  },
+  {
+    "place": "Shoppers Drug Mart",
+    "day": "Thursday",
+    "discount": "20% OFF",
+    "category": "Pharmacy",
+    "address": "1341 Main St W, Hamilton, ON L8S 2X2"
+  },
+  {
+    "place": "East Side Marios",
+    "day": "Everyday",
+    "discount": "15% OFF",
+    "category": "Restaurant",
+    "address": "119 Osler Dr #1, Dundas, ON L9H 6X4"
+  }
+]

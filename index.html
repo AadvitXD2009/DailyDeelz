@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DailyDeelz</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<div class="disclaimer">
+    ⚠️ Deals may vary by location and time. We do not guarantee accuracy.
+</div>
+
+<body>
+
+<header>
+    <img src="logo.png" class="main-logo">
+    <p class="subtitle">Find the best deals today in Hamilton West</p>
+</header>
+
+<!-- TABS -->
+<div class="tab-container">
+    <button class="tab-button active" data-tab="food">Food Deals</button>
+    <button class="tab-button" data-tab="happy">Happy Hours</button>
+    <button class="tab-button" data-tab="students">Student Discounts</button>
+</div>
+
+<!-- FOOD DEALS -->
+<section id="food" class="tab-content active">
+    <h2 id="day-title"></h2>
+    <div id="food-container"></div>
+</section>
+
+<!-- HAPPY HOURS -->
+<section id="happy" class="tab-content">
+    <h2 id="happy-title"></h2>
+    <div id="happy-container"></div>
+</section>
+
+
+<!-- STUDENT DISCOUNTS -->
+<section id="students" class="tab-content">
+    <h2>Student Discounts</h2>
+    <div id="student-container"></div>
+</section>
+
+<script src="app.js"></script>
+</body>
+</html>
