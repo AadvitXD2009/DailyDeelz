@@ -286,6 +286,60 @@
       "time": "All Day",
       "address": "119 Osler Dr, Dundas, ON L9H 6X4",
       "category": "Shawarma"
+    },
+    {
+      "restaurant": "Osmows",
+      "day": "Tuesday",
+      "deal": "Beef Shawarma Ozbox",
+      "amount": "$12.49",
+      "time": "All Day",
+      "address": "119 Osler Dr, Dundas, ON L9H 6X4",
+      "category": "Shawarma"
+    },
+    {
+      "restaurant": "Osmows",
+      "day": "Wednesday",
+      "deal": "Lamb Shawarma Ozbox",
+      "amount": "$12.49",
+      "time": "All Day",
+      "address": "119 Osler Dr, Dundas, ON L9H 6X4",
+      "category": "Shawarma"
+    },
+    {
+      "restaurant": "Osmows",
+      "day": "Thursday",
+      "deal": "Osmow's Special Ozbox",
+      "amount": "$12.49",
+      "time": "All Day",
+      "address": "119 Osler Dr, Dundas, ON L9H 6X4",
+      "category": "Shawarma"
+    },
+    {
+      "restaurant": "Osmows",
+      "day": "Friday",
+      "deal": "Falafel Ozbox",
+      "amount": "$12.49",
+      "time": "All Day",
+      "address": "119 Osler Dr, Dundas, ON L9H 6X4",
+      "category": "Shawarma"
+    },
+    {
+      "restaurant": "Osmows",
+      "day": "Saturday",
+      "deal": "Chicken Kebab Ozbox",
+      "amount": "$12.49",
+      "time": "All Day",
+      "address": "119 Osler Dr, Dundas, ON L9H 6X4",
+      "category": "Shawarma"
+    },
+    {
+      "restaurant": "Osmows",
+      "day": "Sunday",
+      "deal": "Mixed Shawarma Ozbox",
+      "amount": "$12.49",
+      "time": "All Day",
+      "address": "119 Osler Dr, Dundas, ON L9H 6X4",
+      "category": "Shawarma"
     }
     
   ]
