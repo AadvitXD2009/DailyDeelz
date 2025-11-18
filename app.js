@@ -38,7 +38,7 @@ if (foodContainer && foodTitle) {
 
   foodTitle.textContent = `${TODAY}'s Food Deals`;
 
-  fetch("deals.json")
+  fetch("deals.json?v=" + Date.now())
     .then(r => r.json())
     .then(data => {
 
