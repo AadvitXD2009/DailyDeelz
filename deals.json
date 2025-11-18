@@ -340,6 +340,195 @@
       "time": "All Day",
       "address": "119 Osler Dr, Dundas, ON L9H 6X4",
       "category": "Shawarma"
+    },
+    {
+      "restaurant": "Popeyes",
+      "day": "Monday",
+      "deal": "3 Pc Tenders or 8 Pc Nuggets",
+      "amount": "$6.00",
+      "time": "All Day",
+      "address": "1711 Main St W, Hamilton, ON L8S 1G5",
+      "category": "Sandwiches"
+    },
+    {
+      "restaurant": "Popeyes",
+      "day": "Tuesday",
+      "deal": "2 Pc Chicken (Leg & Thigh)",
+      "amount": "$5.00",
+      "time": "All Day",
+      "address": "1711 Main St W, Hamilton, ON L8S 1G5",
+      "category": "Sandwiches"
+    },
+    {
+      "restaurant": "Popeyes",
+      "day": "Wednesday",
+      "deal": "Darkened Chicken Sandwich",
+      "amount": "$7.00",
+      "time": "All Day",
+      "address": "1711 Main St W, Hamilton, ON L8S 1G5",
+      "category": "Sandwiches"
+    },
+    {
+      "restaurant": "Popeyes",
+      "day": "Thursday",
+      "deal": "3 Pc Chicken (Leg, Wing, Thigh)",
+      "amount": "$6.00",
+      "time": "All Day",
+      "address": "1711 Main St W, Hamilton, ON L8S 1G5",
+      "category": "Sandwiches"
+    },
+    {
+      "restaurant": "Popeyes",
+      "day": "Friday",
+      "deal": "Medium Fountain Drink",
+      "amount": "$1.00",
+      "time": "All Day",
+      "address": "1711 Main St W, Hamilton, ON L8S 1G5",
+      "category": "Sandwiches"
+    },
+    {
+      "restaurant": "Popeyes",
+      "day": "Saturday",
+      "deal": "Regular Side",
+      "amount": "$1.00",
+      "time": "All Day",
+      "address": "1711 Main St W, Hamilton, ON L8S 1G5",
+      "category": "Sandwiches"
+    },
+    {
+      "restaurant": "Popeyes",
+      "day": "Sunday",
+      "deal": "6 Pc Wings (Bone-in/ Boneless)",
+      "amount": "$6.00",
+      "time": "All Day",
+      "address": "1711 Main St W, Hamilton, ON L8S 1G5",
+      "category": "Sandwiches"
+    },
+    {
+      "restaurant": "Bar Burrito",
+      "day": "Monday",
+      "deal": "Crunchy Chicken Burrito",
+      "amount": "$8.99",
+      "time": "All Day",
+      "address": "1711 Main St W, Hamilton, ON L8S 1G5",
+      "category": "Burrito"
+    },
+    {
+      "restaurant": "Bar Burrito",
+      "day": "Tuesday",
+      "deal": "Ground Beef Burrito",
+      "amount": "$8.99",
+      "time": "All Day",
+      "address": "1711 Main St W, Hamilton, ON L8S 1G5",
+      "category": "Burrito"
+    },
+    {
+      "restaurant": "Bar Burrito",
+      "day": "Wednesday",
+      "deal": "Mild Chicken Burrito",
+      "amount": "$8.99",
+      "time": "All Day",
+      "address": "1711 Main St W, Hamilton, ON L8S 1G5",
+      "category": "Burrito"
+    },
+    {
+      "restaurant": "Bar Burrito",
+      "day": "Thursday",
+      "deal": "Pulled Pork Burrito",
+      "amount": "$8.99",
+      "time": "All Day",
+      "address": "1711 Main St W, Hamilton, ON L8S 1G5",
+      "category": "Burrito"
+    },
+    {
+      "restaurant": "Bar Burrito",
+      "day": "Friday",
+      "deal": "Spicy Chicken Burrito",
+      "amount": "$8.99",
+      "time": "All Day",
+      "address": "1711 Main St W, Hamilton, ON L8S 1G5",
+      "category": "Burrito"
+    },
+    {
+      "restaurant": "Bar Burrito",
+      "day": "Saturday",
+      "deal": "Spicy Chicken Burrito",
+      "amount": "$8.99",
+      "time": "All Day",
+      "address": "1711 Main St W, Hamilton, ON L8S 1G5",
+      "category": "Burrito"
+    },
+    {
+      "restaurant": "Bar Burrito",
+      "day": "Sunday",
+      "deal": "Spicy Chicken Burrito",
+      "amount": "$8.99",
+      "time": "All Day",
+      "address": "1711 Main St W, Hamilton, ON L8S 1G5",
+      "category": "Burrito"
+    },
+    {
+      "restaurant": "Pita Land",
+      "day": "Monday",
+      "deal": "Large Wrap (Chicken/Falafel) + Lentil Soup",
+      "amount": "$12.99",
+      "time": "All Day",
+      "address": "1685 Main St W #60, Hamilton, ON L8S 0A2",
+      "category": "Shawarma"
+    },
+    {
+      "restaurant": "Pita Land",
+      "day": "Tuesday",
+      "deal": "Plate (Souvlaki/Gyro)",
+      "amount": "$12.99",
+      "time": "All Day",
+      "address": "1685 Main St W #60, Hamilton, ON L8S 0A2",
+      "category": "Shawarma"
+    },
+    {
+      "restaurant": "Pita Land",
+      "day": "Wednesday",
+      "deal": "Salad Bowl (Beef/Falafel)",
+      "amount": "$12.99",
+      "time": "All Day",
+      "address": "1685 Main St W #60, Hamilton, ON L8S 0A2",
+      "category": "Shawarma"
+    },
+    {
+      "restaurant": "Pita Land",
+      "day": "Thursday",
+      "deal": "PitaBox on Rice & Fries (Chicken/Falafel)",
+      "amount": "$12.99",
+      "time": "All Day",
+      "address": "1685 Main St W #60, Hamilton, ON L8S 0A2",
+      "category": "Shawarma"
+    },
+    {
+      "restaurant": "Pita Land",
+      "day": "Friday",
+      "deal": "Potato Bowl (Chicken/Falafel)",
+      "amount": "$12.99",
+      "time": "All Day",
+      "address": "1685 Main St W #60, Hamilton, ON L8S 0A2",
+      "category": "Shawarma"
+    },
+    {
+      "restaurant": "Pita Land",
+      "day": "Saturday",
+      "deal": "Poutine (Chicken)",
+      "amount": "$12.99",
+      "time": "All Day",
+      "address": "1685 Main St W #60, Hamilton, ON L8S 0A2",
+      "category": "Shawarma"
+    },
+    {
+      "restaurant": "Pita Land",
+      "day": "Sunday",
+      "deal": "Plate (Chicken)",
+      "amount": "$12.99",
+      "time": "All Day",
+      "address": "1685 Main St W #60, Hamilton, ON L8S 0A2",
+      "category": "Shawarma"
     }
     
   ]
