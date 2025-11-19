@@ -529,6 +529,69 @@
       "time": "All Day",
       "address": "1685 Main St W #60, Hamilton, ON L8S 0A2",
       "category": "Shawarma"
+    },
+    {
+      "restaurant": "Quik Chik",
+      "day": "Monday",
+      "deal": "3 Pc Chicken Strips",
+      "amount": "$7.99",
+      "time": "All Day",
+      "address": "1331 Main St W, Hamilton, ON L8S 1C6",
+      "category": "Fried Chicken"
+    },
+    {
+      "restaurant": "Quik Chik",
+      "day": "Tuesday",
+      "deal": "2 Pc Chicken",
+      "amount": "$6.49",
+      "time": "All Day",
+      "address": "1331 Main St W, Hamilton, ON L8S 1C6",
+      "category": "Fried Chicken"
+    },
+    {
+      "restaurant": "Quik Chik",
+      "day": "Wednesday",
+      "deal": "Chicken Sandwich",
+      "amount": "$7.99",
+      "time": "All Day",
+      "address": "1331 Main St W, Hamilton, ON L8S 1C6",
+      "category": "Fried Chicken"
+    },
+    {
+      "restaurant": "Quik Chik",
+      "day": "Thursday",
+      "deal": "3 Pc Chicken",
+      "amount": "$7.99",
+      "time": "All Day",
+      "address": "1331 Main St W, Hamilton, ON L8S 1C6",
+      "category": "Fried Chicken"
+    },
+    {
+      "restaurant": "Quik Chik",
+      "day": "Friday",
+      "deal": "Popcorn/Butterfly Shrimp or Popcorn Shrimp",
+      "amount": "$7.99",
+      "time": "All Day",
+      "address": "1331 Main St W, Hamilton, ON L8S 1C6",
+      "category": "Fried Chicken"
+    },
+    {
+      "restaurant": "Quik Chik",
+      "day": "Saturday",
+      "deal": "6 PC Nuggets or Regular Poutine",
+      "amount": "$6.99",
+      "time": "All Day",
+      "address": "1331 Main St W, Hamilton, ON L8S 1C6",
+      "category": "Fried Chicken"
+    },
+    {
+      "restaurant": "Quik Chik",
+      "day": "Sunday",
+      "deal": "5 Pc Wings",
+      "amount": "$7.99",
+      "time": "All Day",
+      "address": "1331 Main St W, Hamilton, ON L8S 1C6",
+      "category": "Fried Chicken"
     }
     
   ]
