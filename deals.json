@@ -110,8 +110,8 @@
     {
       "restaurant": "Boardwalk Burgers",
       "day": "Monday",
-      "deal": "Mushroom Swiss Burger",
-      "amount": "$6.99",
+      "deal": "Boardwalk Classic Burger Combo",
+      "amount": "$12.99",
       "time": "All Day",
       "address": "1685 Main St W, Hamilton, ON L8S 3C4",
       "category": "Burgers"
@@ -119,17 +119,17 @@
     {
       "restaurant": "Boardwalk Burgers",
       "day": "Tuesday",
-      "deal": "Spicy Chicken Burger",
-      "amount": "$7.99",
+      "deal": "Crispy Chicken Burger Combo",
+      "amount": "$12.99",
       "time": "All Day",
       "address": "1685 Main St W, Hamilton, ON L8S 3C4",
-      "category": "Chicken"
+      "category": "Burgers"
     },
     {
       "restaurant": "Boardwalk Burgers",
       "day": "Wednesday",
-      "deal": "Cheese Burger",
-      "amount": "$6.49",
+      "deal": "CheeseBurger Combo",
+      "amount": "$12.99",
       "time": "All Day",
       "address": "1685 Main St W, Hamilton, ON L8S 3C4",
       "category": "Burgers"
@@ -137,8 +137,8 @@
     {
       "restaurant": "Boardwalk Burgers",
       "day": "Thursday",
-      "deal": "Crispy Chicken Burger",
-      "amount": "$7.49",
+      "deal": "Grilled Chicken Burger Combo",
+      "amount": "$12.99",
       "time": "All Day",
       "address": "1685 Main St W, Hamilton, ON L8S 3C4",
       "category": "Chicken"
@@ -146,8 +146,8 @@
     {
       "restaurant": "Boardwalk Burgers",
       "day": "Friday",
-      "deal": "Boardwalk Classic Burger",
-      "amount": "$6.49",
+      "deal": "Sriracha Burger Combo",
+      "amount": "$12.99",
       "time": "All Day",
       "address": "1685 Main St W, Hamilton, ON L8S 3C4",
       "category": "Burgers"
@@ -155,8 +155,8 @@
     {
       "restaurant": "Boardwalk Burgers",
       "day": "Saturday",
-      "deal": "Chipotle Burger",
-      "amount": "$6.49",
+      "deal": "Veggie Burger Combo",
+      "amount": "$12.99",
       "time": "All Day",
       "address": "1685 Main St W, Hamilton, ON L8S 3C4",
       "category": "Burgers"
@@ -164,8 +164,8 @@
     {
       "restaurant": "Boardwalk Burgers",
       "day": "Sunday",
-      "deal": "BBQ Cheddar Bacon Burger",
-      "amount": "$6.99",
+      "deal": "Chipotle Burger Combo",
+      "amount": "$12.99",
       "time": "All Day",
       "address": "1685 Main St W, Hamilton, ON L8S 3C4",
       "category": "Burgers"
