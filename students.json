@@ -33,5 +33,61 @@
     "discount": "15% OFF",
     "category": "Restaurant",
     "address": "101 Osler Dr, Dundas, ON L9H 4H4"
+  },
+  {
+    "place": "Domino's Pizza",
+    "day": "Everyday",
+    "discount": "Large 1-Topping or Medium 4-Topping Pizzas for $10, McMaster Students can use code: WISE",
+    "category": "Restaurant",
+    "address": "All Hamilton or Dundas Locations"
+  },
+  {
+    "place": "Masala Corner",
+    "day": "Mondays & Tuesdays",
+    "discount": "10%",
+    "category": "Restaurant",
+    "address": "815 Main St W, Hamilton, ON L8S 1A2"
+  },
+  {
+    "place": "Mexican Kitchen",
+    "day": "Wednesday to Saturday",
+    "discount": "10%",
+    "category": "Restaurant",
+    "address": "35 York Blvd, Hamilton, ON L8R 3K72"
+  },
+  {
+    "place": "Kinton Ramen",
+    "day": "Monday to Thursday",
+    "discount": "10%",
+    "category": "Restaurant",
+    "address": "1379 Upper James St unit 2, Hamilton, ON L9B 1K2"
+  },
+  {
+    "place": "Mr Sub",
+    "day": "Everyday",
+    "discount": "10%",
+    "category": "Restaurant",
+    "address": "1144 Main St W, Hamilton, ON L8S 1C1"
+  },
+  {
+    "place": "Tahini's",
+    "day": "Everyday",
+    "discount": "10%",
+    "category": "Restaurant",
+    "address": "1554 Main St W, Hamilton, ON L8S 1E5"
+  }, 
+  {
+    "place": "Rannosh Restaurant",
+    "day": "Wednesday",
+    "discount": "10%",
+    "category": "Restaurant",
+    "address": "580 Concession St #578, Hamilton, ON L8V 1B1"
+  }, 
+  {
+    "place": "Dragon Court Restaurant",
+    "day": "Wednesday",
+    "discount": "10%",
+    "category": "Restaurant",
+    "address": "988 King St W, Hamilton, ON L8S 1L1"
   }
 ]
