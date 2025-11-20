@@ -26,5 +26,12 @@
     "discount": "15% OFF",
     "category": "Restaurant",
     "address": "119 Osler Dr #1, Dundas, ON L9H 6X4"
+  },
+  {
+    "place": "Bulk Barn",
+    "day": "Wednesdays",
+    "discount": "15% OFF",
+    "category": "Restaurant",
+    "address": "101 Osler Dr, Dundas, ON L9H 4H4"
   }
 ]
