@@ -1,131 +1,141 @@
 [
-    {
-      "restaurant": "The Snooty Fox",
-      "day": "Sunday",
-      "title": "Steam Whistle Sundays",
-      "details": [
-        "$1 Pierogi Day (minimum 6)",
-        "$7.50 Steam Whistle Pints"
-      ],
-      "address": "1011 King St W, Hamilton, ON L8S 1L1"
-    },
-    {
-      "restaurant": "The Snooty Fox",
-      "day": "Monday",
-      "title": "Landshark Mondays",
-      "details": [
-        "$10 Pounds of Wings",
-        "$7.00 Pints & $20 Pitchers of Landshark Lager"
-      ],
-      "address": "1011 King St W, Hamilton, ON L8S 1L1"
-    },
-    {
-      "restaurant": "The Snooty Fox",
-      "day": "Tuesday",
-      "title": "Burgers & Booze Tuesdays",
-      "details": [
-        "Kids Eat Free",
-        "$12 Fox Burger + Fries",
-        "$5 Single Bar Rail, $7 Double Bar Rail"
-      ],
-      "address": "1011 King St W, Hamilton, ON L8S 1L1"
-    },
-    {
-      "restaurant": "The Snooty Fox",
-      "day": "Wednesday",
-      "title": "Sangria Wednesdays",
-      "details": [
-        "$15 Shareable Platters",
-        "$6 House Red or White",
-        "$18 Sangria Pitchers"
-      ],
-      "address": "1011 King St W, Hamilton, ON L8S 1L1"
-    },
-    {
-      "restaurant": "The Snooty Fox",
-      "day": "Thursday",
-      "title": "Great Lakes Lager Thursdays",
-      "details": [
-        "$10 Appetizers",
-        "$7.50 Pints of Great Lakes Premium or Vienna Red"
-      ],
-      "address": "1011 King St W, Hamilton, ON L8S 1L1"
-    },
-    {
-      "restaurant": "The Snooty Fox",
-      "day": "Everyday",
-      "title": "Amster Damn Good Days",
-      "details": [
-        "$7.50 Pints & Cans of Amsterdam Brewery",
-        "Available 12–5 PM daily"
-      ],
-      "address": "1011 King St W, Hamilton, ON L8S 1L1"
-    },
-    {
-      "restaurant": "Boston Pizza",
-      "day": "Everyday",
-      "title": "Beer Special",
-      "details": [
-        "$3 Beer Special",
-        "Available Monday -  Friday"
-      ],
-      "address": "1563 Main St W, Hamilton, ON L8S 1E6"
-    },
-    {
-      "restaurant": "Boston Pizza",
-      "day": "Monday",
-      "title": "Wings Special",
-      "details": [
-        "Monday Half Price Wings",
-      ],
-      "address": "1563 Main St W, Hamilton, ON L8S 1E6"
-    },
-    {
-      "restaurant": "Boston Pizza",
-      "day": "Everyday",
-      "title": "Appy Hour",
-      "details": [
-        "2:00 PM - 5:00 PM",
-        "Available Monday -  Friday"
-      ],
-      "address": "1563 Main St W, Hamilton, ON L8S 1E6"
-    },
-    {
-      "restaurant": "Boston Pizza",
-      "day": "Wednesday",
-      "title": "Karaoke Night",
-      "details": [
-        "$5 Pints (Spearhead)",
-        "$5 Fireball Shots",
-        "Starts at 9:30 PM"
-      ],
-      "address": "1563 Main St W, Hamilton, ON L8S 1E6"
-    },
-    {
-      "restaurant": "Boston Pizza",
-      "day": "Tuesday",
-      "title": "Pasta Tuesday",
-      "details": [
-      ],
-      "address": "1563 Main St W, Hamilton, ON L8S 1E6"
-    },
-    {
-      "restaurant": "Boston Pizza",
-      "day": "Tuesday", "Wednesday",
-      "title": "Beer Special",
-      "details": [
-        "Mini Pitcher from $9.99"
-      ],
-      "address": "1563 Main St W, Hamilton, ON L8S 1E6"
-    },
-    {
-      "restaurant": "Boston Pizza",
-      "day": "Friday",
-      "title": "FishBowl Fridays",
-      "details": [
-        "Fishbowls from $11.99"
-      ],
-      "address": "1563 Main St W, Hamilton, ON L8S 1E6"
-    }
-  ]
-  
+  {
+    "restaurant": "The Snooty Fox",
+    "day": "Sunday",
+    "title": "Steam Whistle Sundays",
+    "details": [
+      "$1 Pierogi Day (minimum 6)",
+      "$7.50 Steam Whistle Pints"
+    ],
+    "address": "1011 King St W, Hamilton, ON L8S 1L1"
+  },
+  {
+    "restaurant": "The Snooty Fox",
+    "day": "Monday",
+    "title": "Landshark Mondays",
+    "details": [
+      "$10 Pounds of Wings",
+      "$7.00 Pints & $20 Pitchers of Landshark Lager"
+    ],
+    "address": "1011 King St W, Hamilton, ON L8S 1L1"
+  },
+  {
+    "restaurant": "The Snooty Fox",
+    "day": "Tuesday",
+    "title": "Burgers & Booze Tuesdays",
+    "details": [
+      "Kids Eat Free",
+      "$12 Fox Burger + Fries",
+      "$5 Single Bar Rail, $7 Double Bar Rail"
+    ],
+    "address": "1011 King St W, Hamilton, ON L8S 1L1"
+  },
+  {
+    "restaurant": "The Snooty Fox",
+    "day": "Wednesday",
+    "title": "Sangria Wednesdays",
+    "details": [
+      "$15 Shareable Platters",
+      "$6 House Red or White",
+      "$18 Sangria Pitchers"
+    ],
+    "address": "1011 King St W, Hamilton, ON L8S 1L1"
+  },
+  {
+    "restaurant": "The Snooty Fox",
+    "day": "Thursday",
+    "title": "Great Lakes Lager Thursdays",
+    "details": [
+      "$10 Appetizers",
+      "$7.50 Pints of Great Lakes Premium or Vienna Red"
+    ],
+    "address": "1011 King St W, Hamilton, ON L8S 1L1"
+  },
+  {
+    "restaurant": "The Snooty Fox",
+    "day": "Everyday",
+    "title": "Amster Damn Good Days",
+    "details": [
+      "$7.50 Pints & Cans of Amsterdam Brewery",
+      "Available 12–5 PM daily"
+    ],
+    "address": "1011 King St W, Hamilton, ON L8S 1L1"
+  },
+
+  {
+    "restaurant": "Boston Pizza",
+    "day": "Everyday",
+    "title": "Beer Special",
+    "details": [
+      "$3 Beer Special",
+      "Available Monday - Friday"
+    ],
+    "address": "1563 Main St W, Hamilton, ON L8S 1E6"
+  },
+  {
+    "restaurant": "Boston Pizza",
+    "day": "Monday",
+    "title": "Wings Special",
+    "details": [
+      "Monday Half Price Wings"
+    ],
+    "address": "1563 Main St W, Hamilton, ON L8S 1E6"
+  },
+  {
+    "restaurant": "Boston Pizza",
+    "day": "Everyday",
+    "title": "Appy Hour",
+    "details": [
+      "2:00 PM - 5:00 PM",
+      "Available Monday - Friday"
+    ],
+    "address": "1563 Main St W, Hamilton, ON L8S 1E6"
+  },
+  {
+    "restaurant": "Boston Pizza",
+    "day": "Wednesday",
+    "title": "Karaoke Night",
+    "details": [
+      "$5 Pints (Spearhead)",
+      "$5 Fireball Shots",
+      "Starts at 9:30 PM"
+    ],
+    "address": "1563 Main St W, Hamilton, ON L8S 1E6"
+  },
+  {
+    "restaurant": "Boston Pizza",
+    "day": "Tuesday",
+    "title": "Pasta Tuesday",
+    "details": [],
+    "address": "1563 Main St W, Hamilton, ON L8S 1E6"
+  },
+
+  {
+    "restaurant": "Boston Pizza",
+    "day": "Tuesday",
+    "title": "Beer Special",
+    "details": [
+      "Mini Pitcher from $9.99"
+    ],
+    "address": "1563 Main St W, Hamilton, ON L8S 1E6"
+  },
+  {
+    "restaurant": "Boston Pizza",
+    "day": "Wednesday",
+    "title": "Beer Special",
+    "details": [
+      "Mini Pitcher from $9.99"
+    ],
+    "address": "1563 Main St W, Hamilton, ON L8S 1E6"
+  },
+
+  {
+    "restaurant": "Boston Pizza",
+    "day": "Friday",
+    "title": "FishBowl Fridays",
+    "details": [
+      "Fishbowls from $11.99"
+    ],
+    "address": "1563 Main St W, Hamilton, ON L8S 1E6"
+  }
+]
