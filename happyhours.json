@@ -60,6 +60,72 @@
         "Available 12–5 PM daily"
       ],
       "address": "1011 King St W, Hamilton, ON L8S 1L1"
+    },
+    {
+      "restaurant": "Boston Pizza",
+      "day": "Everyday",
+      "title": "Beer Special",
+      "details": [
+        "$3 Beer Special",
+        "Available Monday -  Friday"
+      ],
+      "address": "1563 Main St W, Hamilton, ON L8S 1E6"
+    },
+    {
+      "restaurant": "Boston Pizza",
+      "day": "Monday",
+      "title": "Wings Special",
+      "details": [
+        "Monday Half Price Wings",
+      ],
+      "address": "1563 Main St W, Hamilton, ON L8S 1E6"
+    },
+    {
+      "restaurant": "Boston Pizza",
+      "day": "Everyday",
+      "title": "Appy Hour",
+      "details": [
+        "2:00 PM - 5:00 PM",
+        "Available Monday -  Friday"
+      ],
+      "address": "1563 Main St W, Hamilton, ON L8S 1E6"
+    },
+    {
+      "restaurant": "Boston Pizza",
+      "day": "Wednesday",
+      "title": "Karaoke Night",
+      "details": [
+        "$5 Pints (Spearhead)",
+        "$5 Fireball Shots",
+        "Starts at 9:30 PM"
+      ],
+      "address": "1563 Main St W, Hamilton, ON L8S 1E6"
+    },
+    {
+      "restaurant": "Boston Pizza",
+      "day": "Tuesday",
+      "title": "Pasta Tuesday",
+      "details": [
+      ],
+      "address": "1563 Main St W, Hamilton, ON L8S 1E6"
+    },
+    {
+      "restaurant": "Boston Pizza",
+      "day": "Tuesday", "Wednesday",
+      "title": "Beer Special",
+      "details": [
+        "Mini Pitcher from $9.99"
+      ],
+      "address": "1563 Main St W, Hamilton, ON L8S 1E6"
+    },
+    {
+      "restaurant": "Boston Pizza",
+      "day": "Friday",
+      "title": "FishBowl Fridays",
+      "details": [
+        "Fishbowls from $11.99"
+      ],
+      "address": "1563 Main St W, Hamilton, ON L8S 1E6"
     }
   ]
   
